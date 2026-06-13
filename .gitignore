@@ -1,0 +1,12 @@
+# Build artifacts
+*.exe
+*.o
+*.out
+
+# macOS specific
+.DS_Store
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
